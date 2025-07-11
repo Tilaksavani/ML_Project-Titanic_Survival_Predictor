@@ -98,4 +98,29 @@ jupyter notebook
 ```
 
 4. Open titanic_predictor.ipynb and run all cells.
+---
 
+## 🧰 Tools & Libraries
+Python
+Pandas
+NumPy
+Matplotlib
+Seaborn
+scikit-learn
+Jupyter Notebook
+
+---
+
+## 📄 License
+This project is open-source and available under the MIT License.
+
+---
+
+## 🙋‍♂️ Author
+**Tilak Savani**  
+Master's in Computer Science | University of Georgia  
+Domain: Artificial Intelligence & Machine Learning
+
+---
+
+## ⭐ Credits
