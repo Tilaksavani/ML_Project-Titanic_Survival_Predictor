@@ -74,5 +74,28 @@ PassengerId,Survived
 893,1
 894,0
 
-
 ```
+
+## 🚀 How to Run
+
+1. Clone this repository:
+   
+```
+git clone https://github.com/Tilaksavani/titanic-survival-predictor.git
+cd titanic-survival-predictor
+```
+
+2. Install dependencies:
+   
+```
+pip install -r requirements.txt
+```
+
+3. Launch Jupyter Notebook:
+   
+```
+jupyter notebook
+```
+
+4. Open titanic_predictor.ipynb and run all cells.
+
