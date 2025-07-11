@@ -124,3 +124,6 @@ Domain: Artificial Intelligence & Machine Learning
 ---
 
 ## ⭐ Credits
+
+- [Kaggle Titanic Dataset](https://www.kaggle.com/competitions/titanic/data)
+- [scikit-learn developers](https://scikit-learn.org/)
